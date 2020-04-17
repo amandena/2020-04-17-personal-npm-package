@@ -1,0 +1,20 @@
+{
+  "name": "amandas-conway-package",
+  "version": "1.0.0",
+  "description": "This is a package to fill a random game board",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandena/2020-04-17-personal-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-amandas-conway-package"
+  ],
+  "author": "Amanda Johnson <manda.m.johnson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandena/2020-04-17-personal-npm-package/issues"
+  },
+  "homepage": "https://github.com/amandena/2020-04-17-personal-npm-package#readme"
+}
